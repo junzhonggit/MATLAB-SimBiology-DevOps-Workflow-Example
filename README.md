@@ -1,6 +1,7 @@
-[![MATLAB](https://github.com/simkaryote/MATLAB-SimBiology-DevOps-Workflow-Example/actions/workflows/ci.yml/badge.svg)](https://github.com/simkaryote/MATLAB-SimBiology-DevOps-Workflow-Example/actions/workflows/ci.yml)
-[![Tests](https://img.shields.io/badge/Tests-Open_Test_Report-blue)](https://simkaryote.github.io/MATLAB-SimBiology-DevOps-Workflow-Example/tests/)
-[![Coverage](https://img.shields.io/badge/Coverage-Open_Code_Coverage_Report-orange)](https://simkaryote.github.io/MATLAB-SimBiology-DevOps-Workflow-Example/coverage/)
+[![MATLAB](https://github.com/junzhonggit/MATLAB-SimBiology-DevOps-Workflow-Example/actions/workflows/ci.yml/badge.svg)](https://github.com/junzhonggit/MATLAB-SimBiology-DevOps-Workflow-Example/actions/workflows/ci.yml)
+[![Tests](https://img.shields.io/badge/Tests-Open_Test_Report-blue)](https://junzhonggit.github.io/MATLAB-SimBiology-DevOps-Workflow-Example/tests/)
+[![Coverage](https://img.shields.io/badge/Coverage-Open_Code_Coverage_Report-orange)](https://junzhonggit.github.io/MATLAB-SimBiology-DevOps-Workflow-Example/coverage/)
+
 
 # MATLAB<sup>&reg;</sup>/SimBiology<sup>&reg;</sup> DevOps Workflow Example
 
